@@ -12,7 +12,7 @@ This repository contains CAD drawings, firmware, and data processing scripts for
   - Post-processing for **C-scan visualization** and **wavespeed calculations**.
 
 ## Repository Structure
-📂 CAD_Files/      # 3D models and drawings of the tank and transducer mount
+📂 CAD_Files/      # 3D models and drawings of the tank and transducer mount //
 📂 Firmware/       # Marlin firmware and control scripts
 📂 Data/           # Sample ultrasonic scan data (CSV files)
 📂 Docs/           # Setup guides and project reports
