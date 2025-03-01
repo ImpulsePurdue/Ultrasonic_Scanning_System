@@ -11,15 +11,6 @@ This repository contains CAD drawings, firmware, and data processing scripts for
   - CSV-based data collection from oscilloscope readings.
   - Post-processing for **C-scan visualization** and **wavespeed calculations**.
 
-## Repository Structure
-📂 CAD_Files/      # 3D models and drawings of the tank and transducer mount //
-📂 Firmware/       # Marlin firmware and control scripts
-📂 Data/           # Sample ultrasonic scan data (CSV files)
-📂 Docs/           # Setup guides and project reports
-📂 Scripts/        # Python processing scripts (visualization, wavespeed calculations)
-📄 LICENSE         # Open-source license information
-📄 README.md       # Project overview (this file)
-
 ## Installation & Usage
 ### 1. Setting up the scanner
 - Assemble the frame and ensure the **XY motion system** is calibrated.
