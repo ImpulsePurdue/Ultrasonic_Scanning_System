@@ -37,14 +37,14 @@ This repository contains CAD drawings, firmware, and data processing scripts for
 
 ## Supplementary Data for Paper
 This repository is supplementary to our paper:  
-📄 **[Paper Title]** *(Link to published paper or DOI)*  
+📄 **A Practical and Frugal Approach to Building an Ultrasonic Immersion Test Setup** *(Link to published paper or DOI)*  
 
 If you use this work in your research, please cite it as:  
 ```bibtex
-@article{YourName2024,
-  author  = {Harshith ...},
-  title   = {Title of your paper},
-  journal = {NDT&E International},
-  year    = {2024},
+@article{,
+  author  = {},
+  title   = {},
+  journal = {},
+  year    = {},
   doi     = {DOI link}
 }
